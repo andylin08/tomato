@@ -1,6 +1,6 @@
 # JOURNAL.md
 
-**Total time spent on the project: 7 hours**
+**Total time spent on the project: 9 hours**
 
 ---
 
@@ -35,5 +35,10 @@ Wrapped up PCB layout and made final tweaks. Verified spacing and connector plac
 ![top](imgs/top1.png)
 ![top](imgs/top2.png)
 ![design](imgs/3dmodelcomplete.png)
+---
+
+**8/2 — Day 6: Redo the CAD and Fix the BOM (2hrs)**  
+Redid the CAD to ensure that nothing is clipping. Uploaded updated models to github. Made a new BOM csv.
+![design](imgs/updated3dmodel.png)
 ---
 
