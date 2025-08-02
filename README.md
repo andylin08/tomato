@@ -8,7 +8,7 @@ I made this project because I wanted a fun and personal way to stay focused duri
 
 ![schematic](imgs/schematic.png)
 ![pcb](imgs/pcb.png)
-![3d model](imgs/3dmodelcomplete.png)
+![3d model](imgs/updated3dmodel.png)
 
 ## Bill of Materials (BOM)
 
@@ -22,6 +22,7 @@ I made this project because I wanted a fun and personal way to stay focused duri
 | Battery Holder (AAA or 9V) | 1        | $1.01         | [AliExpress](https://www.aliexpress.us/item/3256805982918007.html) |
 | Prototype PCB / Custom PCB | 1        | $26.73 (shipping included)  | JLCPCB |
 | Total |0| $44.12 (47.20 w tax) | n/a |
+
 
 
 
