@@ -1,0 +1,9 @@
+Item,Quantity,Approx. Price,Source
+ESP32-C3 DevKitM-1,1,$9.40,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-C3-DEVKITM-1U/15198974
+SK6812 Mini RGB LEDs (20x minimum),6,$2.34,https://www.aliexpress.us/item/3256805007401420.html
+Cherry MX Switches,4,$0 (alr have them),https://www.aliexpress.us/item/2255800925392137.html
+0.96" I2C OLED Display,2,$4.64 total,https://www.aliexpress.us/item/3256804169233174.html
+Passive Buzzer,1,$0 (alr have one),https://www.aliexpress.us/item/3256807544525574.html
+Battery Holder (AAA or 9V),1,$1.01,https://www.aliexpress.us/item/3256805982918007.html
+Prototype PCB / Custom PCB,1,$26.73 (shipping included),JLCPCB
+Total,0,$44.12 (47.20 w tax),n/a
